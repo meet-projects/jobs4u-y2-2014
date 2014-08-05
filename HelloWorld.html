@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+
+
+
+body, html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #303030 ;
+}
+
+
+a
+ {
+	margin-left: -3px;
+	padding: 12px 20px;
+	outline: none;
+	border: 1px solid #121212;
+	border-right: none;
+	background: -moz-linear-gradient(center top, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.34) 100%) repeat scroll 0 0 transparent;
+	box-shadow: 0 2px 3px rgba(255, 255, 255, 0.05) inset, 0 1px 0 rgba(255, 255, 255, 0.1);
+	color: #777777;
+	vertical-align: top;
+	text-decoration: none;
+	text-shadow: 0 -1px #0F0F0F;
+	font-size: 21px;
+	line-height: 21px;
+	cursor: pointer;
+   
+	}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin: 0;
+	padding: 0;
+}
+
+#menu {
+	border-left: 1px solid #FFF;
+	border-right: 1px solid #FFF;
+	background: rgba(0, 0, 0, 0.5);
+	float: left;
+	font-size: 1.5em;
+	min-height: 100%;
+	margin-left: 1em;
+}
+
+#menu li {
+	position: relative;
+	z-index: 1;
+}
+
+#menu li a {
+	display: block;
+	padding: 0.5em 1em;
+	white-space: nowrap;
+}
+
+	#menu li ul {
+		position: absolute;
+		overflow: hidden;
+		display: none;
+		left: 100%;
+		top: 0.5em;
+		float: none;
+
+	}
+	
+	#menu li:hover ul {
+		display: block;
+	}
+	
+	#menu li ul a {
+		position: relative;
+		font-size: 0.8em;
+	}
+	
+	#menu li ul a:hover:before {
+		content: "";
+		display: block;
+		width: 1em;
+		height: 1em;
+		color: black;
+		background: rgba(0,0,0,0.5);
+		border: 1px solid #FFF;
+		position: absolute;
+		top: 0.5em;
+		left: -0.75em;
+
+	}
+	.header{
+
+	color: #fff;
+	font: 80px 'ChunkFiveRegular';
+	        font-family: 'Lobster', helvetica, arial;
+	}
+</style>
+</head>
+<body>
+
+
+
+
+<ul id="menu">
+
+<div class="header">NAME</div>
+	<li>
+		<a href="#">Parent 1</a>
+	<li>
+	<li>
+		<a href="#">Parent 2</a>
+		<ul>
+			<li>
+				<a href="#">Child D</a>
+			</li>
+			<li>
+				<a href="#">Child E</a>
+			</li>
+			<li>
+				<a href="#">Child F</a>
+			</li>
+			<li>
+				<a href="#">Child G</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Parent 3</a>
+		<ul>
+			<li>
+				<a href="#">Child H</a>
+			</li>
+			<li>
+				<a href="#">Child I</a>
+			</li>
+			<li>
+				<a href="#">Child J</a>
+			</li>
+			<li>
+				<a href="#">Child K</a>
+			</li>
+			<li>
+				<a href="#">Child L</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Parent 4</a>
+		<ul>
+			<li>
+				<a href="#">Child M</a>
+			</li>
+			<li>
+				<a href="#">Child N</a>
+			</li>
+			<li>
+				<a href="#">Child O</a>
+			</li>
+			<li>
+				<a href="#">Child P</a>
+			</li>
+			<li>
+				<a href="#">Child Q</a>
+			</li>
+			<li>
+				<a href="#">Child R</a>
+			</li>
+		</ul>
+	<li>
+</ul>
+</body>
+</html>
