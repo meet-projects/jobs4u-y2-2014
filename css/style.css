@@ -7,7 +7,47 @@ body, html {
 	background-color: #00688B ;
 }
 
+.border{
+	text-align:center;
+	padding:20px;
 
+	margin: 0 auto;
+	margin-right: 250px;
+}
+
+img{
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-top: 50px;
+
+}
+.border h1{
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);
+    color: #fff;
+    font-size: 70px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 35px;
+  background: #00d100;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #009900;
+  text-decoration: none;
+}
 a
  {
 	margin-left: -3px;
@@ -19,6 +59,11 @@ a
 	box-shadow: 0 2px 3px rgba(255, 255, 255, 0.05) inset, 0 1px 0 rgba(255, 255, 255, 0.1);
 	color: #777777;
 	vertical-align: top;
+
+
+
+
+
 	text-decoration: none;
 	text-shadow: 0 -1px #0F0F0F;
 	font-size: 21px;
@@ -102,7 +147,11 @@ li {
 	        font-family: 'Lobster', helvetica, arial;
 	}
 
+<<<<<<< HEAD
 .pabout{
 	font-family: "Times New Roman";
 	font-size: 20px
 }
+=======
+	
+>>>>>>> d0abdbaedc713cd574653ba95779e30dee5ea6b4
