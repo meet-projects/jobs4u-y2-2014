@@ -7,11 +7,7 @@ body, html {
 	background-color: #00688B ;
 }
 
-.border {
-	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);
-    color: #fff;
-    font-size: 70px;
-}
+
 
 img{
 	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
@@ -30,7 +26,6 @@ img{
     color: #fff;
     font-size: 70px;
 }
-
 .btn {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
@@ -48,7 +43,8 @@ img{
   background: #009900;
   text-decoration: none;
 }
-
+=======
+>>>>>>> 7faf1a2086ce4750367385f42dd46c06e0774b9f
 a
  {
 	margin-left: -3px;
