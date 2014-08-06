@@ -19,5 +19,17 @@ color: white;
     border: 1px solid #999; 
     outline:0; 
     height:25px; 
+	background-color:#d56;
 
   } 
+   .textbox1 { 
+    background: color:#fff; 
+    border: 1px solid #999; 
+    outline:0; 
+    height:131px; 
+	width:428px;
+	resize: none;
+
+  } 
+  
+  
