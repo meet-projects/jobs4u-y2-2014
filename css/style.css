@@ -54,11 +54,11 @@ width:550px;
 .xh1{
 	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);
     color: #fff;
+	margin-top: 0px;
     font-size: 60px;
-margin-left:auto;
+margin-left:27%;
 margin-right:auto;
-padding-right:50px;
-display:block;
+
 }
 .border h1{
 	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);

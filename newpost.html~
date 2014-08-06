@@ -15,27 +15,27 @@
 
 <div class="header">Jobs4U</div>
 	<li>
-		<a href="#">Home</a>
+		<a href="HelloWorld.html">Home</a>
 	<li>
 	<li>
 		<a href="#">Jobs</a>
 		<ul>
 			<li>
-				<a href="#">Offer a Job</a>
+				<a href="newpost.html">Offer a Job</a>
 			</li>
 			<li>
-				<a href="#">See current offers</a>
+				<a href="seeCurentOffers.html">See current offers</a>
 			</li>
 	
 		</ul>
 	<li>
 	<li>
-		<a href="#">About us</a>
+		<a href="about.html">About us</a>
 
 
 	<li>
 	<li>
-		<a href="#">Contact Us</a>
+		<a href="contactus.html">Contact Us</a>
 
 	<li>
 </ul>
@@ -47,10 +47,12 @@
 	<input type="text" name="Name">
 	<h4>Job Title:</h4>
 	<input type="text" name="Job">
-	<h4>Location:</h4>
-	<input type="text" name="Location">
 	<h4>Job Description:</h4>
 	<textarea name="Job description"></textarea>
+	<h4>Location:</h4>
+	<input type="text" name="Location">
+	<h4>Salary:</h4>
+	<input type="text" name="Salary">
 	<h4>Email:</h4>
 	<input type="text" name="Email">
 	<h4>Phone Number:</h4>
