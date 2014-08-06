@@ -1,2 +1,2 @@
-.offerform{ height: 700px; width: 350px; left: 1000px; display: block; margin-left: 400px; border-style: dashed; padding-left: 100px; margin-bottom: 50px;}
-	#someheadline{margin-left: 400px; font-family: helvetica, arial;}
+.offerform{ height: 750px; width: 350px; left: 1000px; display: block; margin-left: 400px; border-style: outset; border-color: green; padding-left: 100px; margin-bottom: 50px;}
+	#someheadline{ color: white; margin-left: 400px; font-weight: bold; }

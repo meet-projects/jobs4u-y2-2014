@@ -1,0 +1,2 @@
+.offerform{ height: 750px; width: 350px; left: 1000px; display: block; margin-left: 400px; border-style: outset; padding-left: 100px; margin-bottom: 50px;}
+	#someheadline{ color: white; margin-left: 400px; font-weight: bold; }

@@ -47,12 +47,10 @@
 	<input type="text" name="Name">
 	<h4>Job Title:</h4>
 	<input type="text" name="Job">
-	<h4>Job Description:</h4>
-	<textarea name="Job description"></textarea>
 	<h4>Location:</h4>
 	<input type="text" name="Location">
-	<h4>Salary:</h4>
-	<input type="text" name="Salary">
+	<h4>Job Description:</h4>
+	<textarea name="Job description"></textarea>
 	<h4>Email:</h4>
 	<input type="text" name="Email">
 	<h4>Phone Number:</h4>
