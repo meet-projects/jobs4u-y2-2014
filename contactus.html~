@@ -40,7 +40,7 @@
 
 	<li>
 </ul> 
-<h1 id = "someheadline2">Feel free to contact us</h1>
+<h1 class = "xh1">Feel free to contact us</h1>
 <div class="offerform1" > 
 	<form action = "HelloWorld.html" method = "POST">
 	<h4>Subject:</h4>
@@ -49,8 +49,6 @@
 	<input type="text" name="email">
 	<h4>Content:</h4>
 	<textarea name="content"></textarea>
-	<h4>What did you think of our website?</h4>
-	<input type ="radio" name ="Satisfaction" value ="bla"><h5> Great </h5>
 	<br>
 	<h4>What do you think about our website?</h4>
 	<input type="radio" name="our website" 			value="Amazing!!!">Amazing!!!
@@ -70,9 +68,13 @@ value="good">good
 <div>	
 <h4 class="emails">
 We would like to hear what you have to say about our website! Please write us if you have ideas which will make our website better.
+<br>
 Moshe: moshe13@meet.mit.edu
+<br>
 Hadas: hadas13@meet.mit.edu
+<br>
 Adrianne: adrianne13@meet.mit.edu
+<br>
 Yael: yael13@meet.mit.edu
 </div>
 </body> </html>
