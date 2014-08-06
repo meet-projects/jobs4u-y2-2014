@@ -49,6 +49,8 @@
 	<input type="text" name="email">
 	<h4>Content:</h4>
 	<textarea name="content"></textarea>
+	<h4>What did you think of our website?</h4>
+	<input type ="radio" name ="Satisfaction" value ="bla"><h5> Great </h5>
 	<br>
 	<h4>What do you think about our website?</h4>
 	<input type="radio" name="our website" 			value="Amazing!!!">Amazing!!!

@@ -46,7 +46,7 @@
 	<div class="buttons">
 		<!--six buttons that takes to an explanation about the job-->
 		<p>
-		<a  href="#">
+		<a class ="first" href="#">
 			Babysitter, Jerusalem, $10 per hour
 		</a>
 		</p>
