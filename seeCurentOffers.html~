@@ -46,38 +46,38 @@
 	<div class="buttons">
 		<!--six buttons that takes to an explanation about the job-->
 		<p>
-		<a class ="first" href="#">
+		<a  href="exampleOffer.html">
 			Babysitter, Jerusalem, $10 per hour
 		</a>
 		</p>
 		<br>
 		<p>
-		<a href=""
+		<a href="exampleOffer.html"
 			<h4>Driver, Tel Aviv, $4 per hour (available 24/7)
 		</a>
 		<br>
 		</p>
 		<br>
 		<p>
-		<a href="#">
+		<a href="exampleOffer.html">
 			Cleaner, Nazareth, $25 per hour
 		</a>
 		</p>
 		<br>
 		<p>
-		<a href=""
+		<a href="exampleOffer.html"
 			<h4>Cook, Eilat, $14 per hour
 		</a>
 		</p>
 		<br>
 		<p>
-		<a href="#">
+		<a href="exampleOffer.html">
 			Gardener, Bethlehem, $15 per hour
 		</a>
 		</p>
 		<br>
 		<p>
-		<a href=""
+		<a href="exampleOffer.html"
 			<h4>Waiter, Jerusalem, $3 per hour
 		</a>
 		</p>
