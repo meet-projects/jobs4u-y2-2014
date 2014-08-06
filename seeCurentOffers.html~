@@ -5,6 +5,7 @@
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/SeeCurentOffers.css">
+<link rel="stylesheet" type="text/css" href="css/seeoffers.css">
 </head>
 <body>
 <!--basic-->
@@ -38,46 +39,46 @@
 	<li>
 </ul>
 <!--end of basic-->
-<h2 class="explain">
-		Here you can see many kinds of jobs that we offer you. Press on a job that you are interesten in:
+<h2 id = "headline4" class="explain">
+		Here you can see many kinds of jobs that are offered. Press on a job that you are interested in:
 		</h2>
 		<br>
 	<div class="buttons">
-		<!--six buttons that takes to an explenation about the job-->
+		<!--six buttons that takes to an explanation about the job-->
 		<p>
-		<a href="#">
-			gardener, Jerusalem, 15$
+		<a class ="first" href="#">
+			Babysitter, Jerusalem, $10 per hour
 		</a>
 		</p>
 		<br>
 		<p>
 		<a href=""
-			<h4>cleaner, Tel Aviv, 30$
+			<h4>Driver, Tel Aviv, $4 per hour (available 24/7)
 		</a>
 		<br>
 		</p>
 		<br>
 		<p>
 		<a href="#">
-			gardener, Jerusalem, 15$
+			Cleaner, Nazareth, $25 per hour
 		</a>
 		</p>
 		<br>
 		<p>
 		<a href=""
-			<h4>cleaner, Tel Aviv, 30$
+			<h4>Cook, Eilat, $14 per hour
 		</a>
 		</p>
 		<br>
 		<p>
 		<a href="#">
-			gardener, Jerusalem, 15$
+			Gardener, Bethlehem, $15 per hour
 		</a>
 		</p>
 		<br>
 		<p>
 		<a href=""
-			<h4>cleaner, Tel Aviv, 30$
+			<h4>Waiter, Jerusalem, $3 per hour
 		</a>
 		</p>
 	</div>
