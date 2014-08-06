@@ -46,7 +46,7 @@ Example Offer
 </h1>
 <p> 
 <b>name of the offer</b></br>
-<input class="textbox" readonly value =" Diana gross" >
+<input class="textbox" readonly value =" Diana Gross" >
 
 
 </p>
@@ -58,7 +58,7 @@ Example Offer
 <p>
 <b>Job description: </b></br>
 <textarea  style="background-color:#483D8B;"class="textbox1" readonly > I live in Jerusalem, and I have 3 kids. Their ages are 7, 10 and 12. Usually they can stay at home alone, 
-but now I am afraid that there will be a sirene and they dont know what to do. 
+but now I am afraid that there will be a sirene and they won't know what to do. 
 Because of that I need someone who will take care of them, 3 times a week from 3 to 7 pm. They are really nice and obedient kids. </textarea>
 
 </p>
