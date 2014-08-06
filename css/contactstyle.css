@@ -1,1 +1,3 @@
-.offerform1{ height: 500px; width: 350px; left: 1000px; display: block; margin-left: 400px; border-style: dashed; padding-left: 100px; margin-bottom: 50px;}
+.offerform1{ height: 400px; width: 350px; left: 1000px; display: block; margin-left: 400px; border-style: outset; padding-left: 100px; margin-bottom: 50px; border-color: green;}
+
+#someheadline2 {color: white; margin-left: 400px; font-weight: bold;}
