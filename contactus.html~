@@ -5,6 +5,7 @@
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/offerstyle.css">
+<link rel="stylesheet" type="text/css" href="css/contactstyle.css">
 </head>
 <body>
 
@@ -38,29 +39,21 @@
 		<a href="#">Contact Us</a>
 
 	<li>
-</ul>
-	<h1 id = "someheadline">Hello, post your offer</h1>
-  
- <div class="offerform" >
-	<form action = "HelloWorld.html" method = "POST">
-	 <h4>Name:</h4>
-	<input type="text" name="Name">
-	<h4>Job Title:</h4>
-	<input type="text" name="Job">
-	<h4>Job Description:</h4>
-	<textarea name="Job description"></textarea>
-	<h4>Location:</h4>
-	<input type="text" name="Location">
-	<h4>Salary:</h4>
-	<input type="text" name="Salary">
+</ul> 
+<h1 id = "someheadline2">Feel free to contact us</h1>
+<div class="offerform1" > 
+	<form = "HelloWorld.html" method = "POST">
+	<h4>Subject:</h4>
+	<input type="text" name="subject">
 	<h4>Email:</h4>
-	<input type="text" name="Email">
-	<h4>Phone Number:</h4>
-	<input type="text" name="Number">
+	<input type="text" name="email">
+	<h4>Content:</h4>
+	<textarea name="content"></textarea>
 	<br>
 	<br>
-	<input type= "submit">
+	<input type= "submit"> 
 	</form>
- </div>
-</body>
-</html>
+	</div>
+
+
+</body> </html>
